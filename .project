@@ -14,4 +14,17 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>commons-io-2.4.jar</name>
+			<type>1</type>
+			<locationURI>copy_PARENT_LOC/commons-io-2.4.jar</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT_LOC</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D/MinecraftModInstaller</value>
+		</variable>
+	</variableList>
 </projectDescription>
